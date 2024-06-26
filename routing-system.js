@@ -66,7 +66,7 @@ function createSearchBox(type) {
           key: apiKey
       },
       labels: {
-          placeholder: 'Tentukan Awal & Tujuan'
+          placeholder: 'Awal & Tujuan'
       }
   });
 
