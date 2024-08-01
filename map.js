@@ -1,4 +1,4 @@
-const apiKey = 'eGjlzc0IQpU2t2qqyICGA0aQ764NWIFE';
+const apiKey = 'your-api';
 let center = [107.6110212, -6.9215529];
 var styleBase = "tomtom://vector/1/";
 var styleS1 = "s1";
